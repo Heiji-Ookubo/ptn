@@ -1,0 +1,1 @@
+print ("rijii pomogi")
