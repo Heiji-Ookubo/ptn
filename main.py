@@ -1,1 +1,1 @@
-print ("rijii pomogi")
+print ("kak ono rabotaet")
