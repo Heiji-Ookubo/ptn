@@ -1,1 +1,1 @@
-print ("kak ono rabotaet")
+print ("ono rabotaet")
